@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
+   
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+    <title>BINARYBLOCK</title>
+    <link rel="stylesheet" href="styl.css">
+
+  
+
+</head>
+
+   
+
+
+<body onload="myFunction()">
+
+    <div id="loader"></div>
+    <div id="myDiv">
+
+      
+            <div class="topnav">
+              <a class="active" href="home.html">Home</a>
+              <img src='b.png' style="width:111px;height: 111px; float: left;margin-top: 0;">
+              <a href="govt.html">GOVT<br>AGENCIES</a>
+              <a href="webcam.html">DRONE<br>FOOTAGE</a>
+              <a href="map.html">STRESS<br>MAP</a>
+              <a href="thr.html">THREAT<br>LEVEL</a>
+              <a href="http://localhost/disaster.php">Database</a>
+              <a href="http://localhost/sendsms.php">ALERT THE POPULATION!!</a>
+            </div>
+            
+
+    </div>
+
+    
+    
+    
+    <script>
+      var myVar;
+      
+      function myFunction() {
+        myVar = setTimeout(showPage, 1000);
+      }
+      
+      function showPage() {
+        document.getElementById("loader").style.display = "none";
+        document.getElementById("myDiv").style.display = "block";
+      }
+      </script>
+
+</body>
