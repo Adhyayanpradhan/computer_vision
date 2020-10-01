@@ -15,15 +15,59 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from googletrans import Translator
 from googletrans import Translator
+from imutils.video import VideoStream
+from imutils.video import FPS
+import imutils
+import time
+import cv2
+import webbrowser
 #defining all subroutines
 def browse():
     global filenames
     filename=filedialog.askopenfilename()
-def hindi():
-    text="hello send me the pictures"
-    translator=Translator()
-    translations=translator.translate(text,dest='hi')
-    print(translations.text)
+def togovtportal():
+    webbrowser.open('https://plants.sc.egov.usda.gov/java/')
+def snapshot():
+     # Get a frame from the video source
+    ret, frame = self.vid.get_frame()
+
+    if ret:
+        cv2.imwrite("frame-" + time.strftime("%d-%m-%Y-%H-%M-%S") + ".jpg", cv2.cvtColor(frame, cv2.COLOR_RGB2BGR))
+def send_picture():
+    vs = VideoStream(src=0).start()
+    time.sleep(1.0)
+    fps = FPS().start()
+    writer = None
+    (W, H) = (None, None)
+    while True:
+        # grab the frame from the thr
+        # read the next frame from the file
+        frame = vs.read()
+        frame=imutils.resize(frame,width=912)
+        # if the frame dimensions are empty, grab them
+        if W is None or H is None:
+            (H, W) = frame.shape[:2]
+        if writer is None:
+            # initialize our video writer
+            fourcc = cv2.VideoWriter_fourcc(*"XVID")
+            writer = cv2.VideoWriter('live_video_of_client.mp4', fourcc, 5,
+                (frame.shape[1], frame.shape[0]), True)
+            
+        # show the output frame
+        writer.write(frame)
+        cv2.imshow("Frame", frame)
+        """snapshot=tkinter.Button(screen2, text="Snapshot", width=50, command=snapshot)
+                                snapshot.pack(anchor=screen2.CENTER, expand=True)"""
+        key = cv2.waitKey(1) & 0xFF
+        if key == ord("q"):
+            break
+        fps.update()
+    fps.stop()
+    # do a bit of cleanup
+    writer.release()
+    cv2.destroyAllWindows()
+    vs.stop()
+
 def contact():
     tkinter.messagebox.showinfo("Expert",'9861101500')
 def demo():
@@ -34,10 +78,13 @@ def demo():
     screen2.geometry("400x350")
     Label(screen2,text="").pack()
     
-    Button(screen2,text="PLANT DISEASE",width=15,height=1,command=browse).pack()
+    Button(screen2,text="PLANT DISEASE",width=25,height=1,command=browse).pack()
     Label(screen2,text="").pack()
     
-    Button(screen2,text="CHAT WITH EXPERT",width=15,height=1,command=contact).pack()
+    Button(screen2,text="CHAT WITH EXPERT",width=25,height=1,command=contact).pack()
+    Label(screen2,text="").pack()
+    Button(screen2,text="CLICK PICTURE OF PLANT",width=25,height=1,command=send_picture).pack()
+
 
 def register_user():
     phone_info=phone.get()
@@ -108,7 +155,7 @@ def toll_free():
 global main
 main=Tk()
 main.title("KRISHI")
-main.geometry("500x500")
+main.geometry("400x350")
 main.iconbitmap(r'plant_0VY_icon.ico')
 
 #create a menubar
@@ -118,7 +165,7 @@ main.config(menu=menubar)
 #create the submenu
 subMenu=Menu(menubar,tearoff=0)
 menubar.add_cascade(label="File",menu=subMenu)
-subMenu.add_command(label='Open')
+subMenu.add_command(label='Open',command=togovtportal)
 subMenu.add_command(label='Exit',command=quit)
 
 subMenu=Menu(menubar,tearoff=0)
@@ -135,6 +182,8 @@ x.pack()
 #adding a button
 y=Label(main, text="Choose to continue",font=60)
 y.pack()
+Label(main,text="").pack()
+
 Button(main,text="Enter the portal",width=30,command=demo).pack()
 Label(main,text="").pack()
 

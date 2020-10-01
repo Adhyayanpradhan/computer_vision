@@ -27,8 +27,63 @@ import time
 import cv2
 from imutils.video import FileVideoStream
 import webbrowser
+import pandas as pd
+
+from openpyxl import load_workbook
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.gridspec as gridspec
+import plotly.express as px
+
+def ploting_excel():
+    rain=pd.read_csv('D:/project/computervision/garbage detection/pyPushBullet-master/agrifinalyear/d_rain.csv')
+    #print(rain.head())
+    #fig = plt.figure()
+    """ax = fig.add_subplot(222)
+                bx = fig.add_subplot(212)"""
+    fig,ax=plt.subplots(2)
+    ax[0].scatter(rain['ANNUAL'],rain['STATE_UT_NAME'])
+    ax[1].scatter(rain['ANNUAL'],rain['DISTRICT'])
+
+    ax[0].set_title('DROUGT ANALYSIS USING RAINFALL')
+    #bx.set_title('Epic Info')
+
+    ax[0].set_ylabel('STATE_UT_NAME')
+    ax[1].set_ylabel('DISTRICT')
+
+    #ax[0].set_xlabel('ANNUAL')
+    ax[1].set_xlabel('ANNUAL')
+
+    plt.show()
+def ploting_excel_again():
+    rain=pd.read_csv('D:/project/computervision/garbage detection/pyPushBullet-master/agrifinalyear/d_rain.csv')
+    #print(rain.head())
+    #ax = plt
+    bx = plt
+    
+    #ax.scatter(rain['ANNUAL'],rain['STATE_UT_NAME'])
+    bx.scatter(rain['ANNUAL'],rain['DISTRICT'])
+
+    #ax.title('Epic Info')
+    bx.title('Epic Info')
+
+    #ax.ylabel('STATE_UT_NAME')
+    bx.ylabel('DISTRICT')
+
+    #ax.xlabel('ANNUAL')
+    bx.xlabel('ANNUAL')
+
+    plt.show()
+
+
 def image():
     webbrowser.open('https://colab.research.google.com/drive/1UHLOjjsRWwB1Dhr9SltP9OSK8NABLNrN#scrollTo=GStNeHWPkTcN')
+
+def flooding_plant():
+    webbrowser.open('https://colab.research.google.com/drive/1rn_3hVQ8kWkFp-BEvxmlLzCWhp2yOMOp#scrollTo=GStNeHWPkTcN')
+
+def togovtportal():
+    webbrowser.open('https://plants.sc.egov.usda.gov/java/')
 def detection():
     LABELS = open("coco.names").read().strip().split("\n")
     np.random.seed(42)
@@ -195,7 +250,7 @@ main.config(menu=menubar)
 #create the submenu
 subMenu=Menu(menubar,tearoff=0)
 menubar.add_cascade(label="File",menu=subMenu)
-subMenu.add_command(label='Open')
+subMenu.add_command(label='Open',command=togovtportal)
 subMenu.add_command(label='Exit',command=quit)
 
 menubar.add_command(label='Exit',command=quit)
@@ -206,8 +261,16 @@ x.pack()
 y=Label(main, text="Welcome to KRISHI LAB Basestation",font=60)
 y.pack()
 Button(main,text="Live Video from drone for pilot view",width=50,command=video).pack()
+Label(main,text="").pack()
 Button(main,text="Live processing of field",width=50,command=detection).pack()
+Label(main,text="").pack()
 Button(main,text="R&D on plant diseases",width=50,command=image).pack()
+Label(main,text="").pack()
+Button(main,text="Detecting flooding crop and healthy crop",width=50,command=flooding_plant).pack()
+Label(main,text="").pack()
+Button(main,text="Rainfall Pattern",width=50,command=ploting_excel).pack()
+Label(main,text="").pack()
+
 
 main.mainloop()
 
