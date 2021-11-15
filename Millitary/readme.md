@@ -262,7 +262,7 @@ Before running the project to have a virtual env to run this file. I used conda 
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See <a href="https://github.com/Adhyayanpradhan/computer_vision/blob/a38e6584c474cb31722bb40590feefd5f80aae02/LICENSE">MIT LICENSE</a> for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
