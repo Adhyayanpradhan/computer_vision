@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1 align="center">Welcome to the Computer Vision Repo</h1>
+  <h1 align="center">Welcome to the Millitary Branch Repo</h1>
 
   <p align="center">
     An awesome repo which contains all computer vision projects!
