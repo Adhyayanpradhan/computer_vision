@@ -1,8 +1,11 @@
 <div id="top"></div>
 
--->
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<a href="https://github.com/Adhyayanpradhan/computer_vision/blob/475fcdad0d5111f189acac9ac2cdd65c9c5f4774/LICENSE">
+  <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT" />
+</a>
+<a href="https://www.linkedin.com/in/pradhan-adhyayan/">
+  <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <br />
 <div align="center">
