@@ -283,9 +283,9 @@ Project Link: [https://github.com/Adhyayanpradhan/computer_vision/tree/master/Mi
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-[product-screenshot1]: ../Millitary/project_screenshots/project_screenshot.png
-[product-screenshot2]: ../Millitary/project_screenshots/1.jpg
-[product-screenshot3]: ../Millitary/project_screenshots/8.jpg
-[product-screenshot4]: ../Millitary/project_screenshots/4.jpg
+[product-screenshot1]: ./Millitary/project_screenshots/project_screenshot.png
+[product-screenshot2]: ./Millitary/project_screenshots/1.jpg
+[product-screenshot3]: ./Millitary/project_screenshots/8.jpg
+[product-screenshot4]: ./Millitary/project_screenshots/4.jpg
 [linkedin-url]: https://www.linkedin.com/in/pradhan-adhyayan/
 [License: MIT]: https://github.com/Adhyayanpradhan/computer_vision/blob/a38e6584c474cb31722bb40590feefd5f80aae02/LICENSE
