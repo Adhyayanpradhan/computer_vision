@@ -46,7 +46,7 @@ This Computer Vision repo is all about research and prototype development for va
 
 ## Getting Started
 
-Please follow the detailed instruction to run this project on your local.
+Please follow the detailed instruction to run these projects in different branches on your local.
 
 ### Process
 
