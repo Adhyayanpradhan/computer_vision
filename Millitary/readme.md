@@ -96,15 +96,15 @@ Before running the project to have a virtual env to run this file. I used conda 
 <h3>Folder Structure</h3>
 
 <hr />
-```
+```bash
   Millitary/
-  ├──assets/
-   ├──data/
-     ├── coco.names
-     ├── frozen_inference_graph_new.pb
-     ├── object-detection.pbtxt
-     ├── yolov3.cfg
-  ┃ ┃└──  yolov3.weights
+  ┣ assets/
+  ┃ ┣ data/
+  ┃ ┃ ┣ coco.names
+  ┃ ┃ ┣ frozen_inference_graph_new.pb
+  ┃ ┃ ┣ object-detection.pbtxt
+  ┃ ┃ ┣ yolov3.cfg
+  ┃ ┃ ┗ yolov3.weights
   ┃ ┣ images/
   ┃ ┃ ┣ adhyayan.jpg
   ┃ ┃ ┣ biden.jpg
