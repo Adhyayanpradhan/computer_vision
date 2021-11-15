@@ -1,12 +1,12 @@
 <div id="top"></div>
 <div align="center">
 
-  <title align="center">Welcome to the world of Army and droids</title>
+  <h1 align="center">Welcome to the world of Army and droids</h1>
 </div>
 
 <div align="center">
 
-  <h1 align="center">Millitary Rescue and criminal Tracking</h1>
+  <h2 align="center">Millitary Rescue and criminal Tracking</h2>
 
   <p align="center">
     An awesome guide to install and run this awesome computer vision project!
