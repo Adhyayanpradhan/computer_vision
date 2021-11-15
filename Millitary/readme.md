@@ -281,7 +281,7 @@ Project Link: [https://github.com/Adhyayanpradhan/computer_vision/tree/master/Mi
 
 [product-screenshot1]: ./project_screenshots/project_screenshot.png
 [product-screenshot2]: ./project_screenshots/1.jpg
-[product-screenshot3]: ./project_screenshots/2.jpg
-[product-screenshot4]: ./project_screenshots/3.jpg
+[product-screenshot3]: ./project_screenshots/7.jpg
+[product-screenshot4]: ./project_screenshots/4.jpg
 [linkedin-url]: https://www.linkedin.com/in/pradhan-adhyayan/
 [License: MIT]: https://github.com/Adhyayanpradhan/computer_vision/blob/a38e6584c474cb31722bb40590feefd5f80aae02/LICENSE
