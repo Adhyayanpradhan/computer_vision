@@ -228,7 +228,8 @@ Before running the project to have a virtual env to run this file. I used conda 
 
 4. Install all packages
 
-   ```pip install requirements.txt
+   ```
+   pip install requirements.txt
 
    ```
 
