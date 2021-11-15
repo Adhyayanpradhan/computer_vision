@@ -44,9 +44,9 @@
 ## About The Project
 
 [![Full project demo][product-screenshot1]](https://www.youtube.com/watch?v=mTAQe_-H1AE&ab_channel=BinaryBlock)
-[![product-screenshot1][product-screenshot2]]
-[![product-screenshot1][product-screenshot3]]
-[![product-screenshot1][product-screenshot4]]
+![product-screenshot1][product-screenshot2]
+![product-screenshot1][product-screenshot3]
+![product-screenshot1][product-screenshot4]
 
 This Hybrid AI platform for military, rescue and criminal tracking drone + AI platform is a prototype version for fighting crime and help in security. The drone is equipped with an onboard camera which can -
 
