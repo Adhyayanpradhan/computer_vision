@@ -272,7 +272,7 @@ Distributed under the MIT License. See <a href="https://github.com/Adhyayanpradh
 
 Adhyayan Pradhan- pradhanadhyayan@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Adhyayanpradhan/computer_vision/tree/master/Millitary](https://github.com/Adhyayanpradhan/computer_vision/tree/master/Millitary)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
