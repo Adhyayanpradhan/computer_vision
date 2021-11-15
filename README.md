@@ -230,7 +230,7 @@ Before running the project to have a virtual env to run this file. I used conda 
 
 3. Download the utils - https://drive.google.com/drive/folders/10j0ZyqQHVQMLgsgikJ0oEMKovV9wia1q?usp=sharing
 
-<p>The folder should look like the folder structure above</p>
+<p>The folder should look like the folder structure above. Keep assets and utils folder inside Millitary folder</p>
 
 4. Install all packages
 
