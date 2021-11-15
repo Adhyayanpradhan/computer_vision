@@ -52,8 +52,9 @@ Please follow the detailed instruction to run this project on your local.
 
 <h3>Click on the branches in computer vision repo and clone it</h3>
 <p>Branches:</p>
-1. Millitary - https://github.com/Adhyayanpradhan/computer_vision.git
-2. Agriculture - https://github.com/Adhyayanpradhan/computer_vision.git
+<li>Millitary - https://github.com/Adhyayanpradhan/computer_vision.git</li>
+
+<li>Agriculture - https://github.com/Adhyayanpradhan/computer_vision.git</li>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
