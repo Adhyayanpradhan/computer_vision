@@ -1,8 +1,7 @@
 <div id="top"></div>
 
-<a href="https://github.com/Adhyayanpradhan/computer_vision/blob/475fcdad0d5111f189acac9ac2cdd65c9c5f4774/LICENSE">
-  <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT" />
-</a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<br />
 <a href="https://www.linkedin.com/in/pradhan-adhyayan/">
   <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
