@@ -1,21 +1,21 @@
 <div id="top"></div>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-<br />
-<a href="https://www.linkedin.com/in/pradhan-adhyayan/">
-  <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
 <div align="center">
 
   <h1 align="center">Millitary Rescue and criminal Tracking</h1>
 
   <p align="center">
     An awesome guide to install and run this awesome computer vision project!
-    
   </p>
 </div>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://www.linkedin.com/in/pradhan-adhyayan/">
+  <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
