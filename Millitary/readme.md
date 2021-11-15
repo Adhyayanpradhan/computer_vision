@@ -10,7 +10,7 @@
   <h1 align="center">Millitary Rescue and criminal Tracking</h1>
 
   <p align="center">
-    An awesome README template to install and run this awesome computer vision project!
+    An awesome guide to install and run this awesome computer vision project!
     
   </p>
 </div>
@@ -86,9 +86,9 @@ Before running the project to have a virtual env to run this file. I used conda 
 - install pip using conda
 
   ```
-  1. Run conda create -n venv_name and conda activate venv_name, where venv_name is the name of your virtual environment.
+  1. Run "conda create -n venv_name" and "conda activate venv_name", where venv_name is the name of your virtual environment.
 
-  2. Run conda install pip. This will install pip to your venv directory.
+  2. Run "conda install pip". This will install pip to your venv directory.
   ```
 
 ### Installation
@@ -96,7 +96,7 @@ Before running the project to have a virtual env to run this file. I used conda 
 <h3>Folder Structure</h3>
 
 <hr />
-<div>
+
   Millitary/
   ┣ assets/
   ┃ ┣ data/
@@ -212,7 +212,7 @@ Before running the project to have a virtual env to run this file. I used conda 
   ┣ military_base_station.py
   ┣ readme.md
   ┗ requirements.txt
-</div>
+
 
 1. Clone the repo
 
