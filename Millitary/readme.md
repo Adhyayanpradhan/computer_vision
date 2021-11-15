@@ -96,7 +96,7 @@ Before running the project to have a virtual env to run this file. I used conda 
 <h3>Folder Structure</h3>
 
 <hr />
-
+```
   Millitary/
   ┣ assets/
   ┃ ┣ data/
@@ -212,7 +212,7 @@ Before running the project to have a virtual env to run this file. I used conda 
   ┣ military_base_station.py
   ┣ readme.md
   ┗ requirements.txt
-
+```
 
 1. Clone the repo
 
