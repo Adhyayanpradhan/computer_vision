@@ -220,11 +220,7 @@ Before running the project to have a virtual env to run this file. I used conda 
   ┗ requirements.txt
 </pre>
 
-1. Clone the repo
-
-   ```
-
-   ```
+1. Clone this repo by keeping Millitary as branch.
 
 2. Download the assets - https://drive.google.com/drive/folders/1YD6N5vjX6-95shmVPnpbs3z9-2Rs1ej-?usp=sharing
 
@@ -235,7 +231,7 @@ Before running the project to have a virtual env to run this file. I used conda 
 4. Install all packages
 
    ```
-   pip install requirements.txt
+   pip install -r requirements.txt
 
    ```
 
