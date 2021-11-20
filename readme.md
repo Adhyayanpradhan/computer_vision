@@ -1,10 +1,5 @@
 <div id="top"></div>
 
--->
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<br />
 <div align="center">
 
   <h1 align="center">Automatic Traffic Management, Number plate recognition, Speeding car recognition and fine system</h1>
@@ -14,6 +9,14 @@
     
   </p>
 </div>
+<br />
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://www.linkedin.com/in/pradhan-adhyayan/">
+  <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
 
 <!-- TABLE OF CONTENTS -->
 <details>
