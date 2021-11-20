@@ -44,10 +44,10 @@
 
 ## About The Project
 
-[![Full project demo][product-screenshot1]](https://www.youtube.com/watch?v=D6Qqi1Od_2k&ab_channel=Adhyayan)
+[![Full project demo][product-screenshots]](https://www.youtube.com/watch?v=D6Qqi1Od_2k&ab_channel=Adhyayan)
 [![product-screenshot1][product-screenshot2]]
 [![product-screenshot1][product-screenshot3]]
-[![product-screenshot1][product-screenshot4]]
+[![product-screenshot1][product-screenshot1]]
 
 This platform is an end to end system for automatic Traffic Management, Number plate recognition, Speeding car recognition and fine system to prevail the advanced prototype of traffic in India -
 
