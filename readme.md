@@ -302,7 +302,7 @@ See the image to get an idea of the mysql table-
 
 3. Download the utils - https://drive.google.com/drive/folders/1LI5XxQiGVdn2bsYVTPYaEAaIj_Bnk6OI?usp=sharing
 
-<p>The folder should/must look like the folder structure above</p>
+<p>The folder should/must look like the folder structure above. Root folder is <strong>Automatic Traffic management</strong>. Create a new folder under root folder name and keep all things in this folder as shown in the diagram above.</p>
 
 4. Install all packages
 
