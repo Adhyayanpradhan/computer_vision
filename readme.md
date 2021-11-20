@@ -8,6 +8,8 @@
     An awesome README template to install and run this awesome computer vision project!
     
   </p>
+  
+  <p>Project Demo - https://www.youtube.com/watch?v=D6Qqi1Od_2k&ab_channel=Adhyayan</p>
 </div>
 <br />
 
@@ -112,9 +114,11 @@ Before running the project to have a virtual env to run this file. I used conda 
 ```
 
 See the images to get an idea -
-![product-screenshot1][product-screenshot5]
-![product-screenshot1][product-screenshot6]
-![product-screenshot1][product-screenshot7]
+<div align="center">
+  ![product-screenshot1][product-screenshot5]
+  ![product-screenshot1][product-screenshot6]
+  ![product-screenshot1][product-screenshot7]
+</div>
 
 - chromedriver installation for getting the exact location
 <p>Chromedriver is required for getting the longitude and latitude of the place where overspeeding takes place. So that fine can be attached with the location and video proof.</p>
