@@ -284,7 +284,7 @@ Distributed under the MIT License. See <a href="https://github.com/Adhyayanpradh
   </p>
 </div>
 
-Project Link: [https://github.com/Adhyayanpradhan/computer_vision/tree/Millitary](https://github.com/Adhyayanpradhan/computer_vision/tree/Millitary)
+Project Link: [https://github.com/Adhyayanpradhan/computer_vision/tree/Millitary/Millitary](https://github.com/Adhyayanpradhan/computer_vision/tree/Millitary/Millitary)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
