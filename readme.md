@@ -45,9 +45,13 @@
 ## About The Project
 
 [![Full project demo][product-screenshot1]](https://www.youtube.com/watch?v=D6Qqi1Od_2k&ab_channel=Adhyayan)
-![product-screenshot1][product-screenshot2]
-![product-screenshot1][product-screenshot3]
-![product-screenshot1][product-screenshot1]
+<div align="center">
+  
+  ![product-screenshot1][product-screenshot2]
+  ![product-screenshot1][product-screenshot3]
+  ![product-screenshot1][product-screenshot1]
+
+</div>
 
 This platform is an end to end system for automatic Traffic Management, Number plate recognition, Speeding car recognition and fine system to prevail the advanced prototype of traffic in India -
 
@@ -165,6 +169,19 @@ See the image to get an idea of the mysql table-
 ┃   ┣ speed_car_sound.mp4
 ┃   ┣ speed_car_sound.wav
 ┃   ┗ test3.mp4
+┣ project_screenshots/
+┃ ┣ 1.jpg
+┃ ┣ 10.png
+┃ ┣ 11.png
+┃ ┣ 2.jpg
+┃ ┣ 3.2.png
+┃ ┣ 3.jpg
+┃ ┣ 4.jpg
+┃ ┣ 5.jpg
+┃ ┣ 6.jpg
+┃ ┣ 7.png
+┃ ┣ 8.jpg
+┃ ┗ 9.png
 ┣ utils/
 ┃ ┣ __pycache__/
 ┃ ┃ ┣ autoaugment_utils.cpython-36.pyc
@@ -339,7 +356,7 @@ Distributed under the MIT License. See <a href="https://github.com/Adhyayanpradh
 
 Adhyayan Pradhan- pradhanadhyayan@gmail.com
 
-Project Link: [https://github.com/Adhyayanpradhan/computer_vision/tree/master/Millitary](https://github.com/Adhyayanpradhan/computer_vision/tree/master/Millitary)
+Project Link: [https://github.com/Adhyayanpradhan/computer_vision/tree/Auto-Traffic-Control](https://github.com/Adhyayanpradhan/computer_vision/tree/Auto-Traffic-Control)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
