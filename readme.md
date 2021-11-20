@@ -360,9 +360,9 @@ Distributed under the MIT License. See <a href="https://github.com/Adhyayanpradh
 
 <div>
   <p>Adhyayan Pradhan-</p>
-  <p>Mail - pradhanadhyayan@gmail.com</p>
+  <p>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - pradhanadhyayan@gmail.com</p>
   <p>
-    Linkedin - <span>
+    Linkedin - https://www.linkedin.com/in/pradhan-adhyayan/<span>
     <a href="https://www.linkedin.com/in/pradhan-adhyayan/">
   <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
