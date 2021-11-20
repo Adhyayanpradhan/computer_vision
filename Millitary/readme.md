@@ -7,6 +7,10 @@
   <p align="center">
     An awesome guide to install and run this awesome computer vision project!
   </p>
+  
+  <p align="center">
+    Project Demo - https://www.youtube.com/watch?v=mTAQe_-H1AE&ab_channel=BinaryBlock
+  </p>
 </div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -268,7 +272,17 @@ Distributed under the MIT License. See <a href="https://github.com/Adhyayanpradh
 
 ## Contact
 
-Adhyayan Pradhan- pradhanadhyayan@gmail.com
+<div>
+  <p>Adhyayan Pradhan-</p>
+  <p><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> - pradhanadhyayan@gmail.com</p>
+  <p>
+    Linkedin - https://www.linkedin.com/in/pradhan-adhyayan/<span>
+    <a href="https://www.linkedin.com/in/pradhan-adhyayan/">
+  <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
+    </span>
+  </p>
+</div>
 
 Project Link: [https://github.com/Adhyayanpradhan/computer_vision/tree/master/Millitary](https://github.com/Adhyayanpradhan/computer_vision/tree/master/Millitary)
 
