@@ -358,7 +358,11 @@ Distributed under the MIT License. See <a href="https://github.com/Adhyayanpradh
 
 ## Contact
 
-Adhyayan Pradhan- pradhanadhyayan@gmail.com
+Adhyayan Pradhan- 
+Mail - pradhanadhyayan@gmail.com
+Linkedin - <a href="https://www.linkedin.com/in/pradhan-adhyayan/">
+  <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 Project Link: [https://github.com/Adhyayanpradhan/computer_vision/tree/Auto-Traffic-Control](https://github.com/Adhyayanpradhan/computer_vision/tree/Auto-Traffic-Control)
 
