@@ -44,7 +44,7 @@
 
 ## About The Project
 
-[![Full project demo][product-screenshots]](https://www.youtube.com/watch?v=D6Qqi1Od_2k&ab_channel=Adhyayan)
+[![Full project demo][product-screenshot1]](https://www.youtube.com/watch?v=D6Qqi1Od_2k&ab_channel=Adhyayan)
 [![product-screenshot1][product-screenshot2]]
 [![product-screenshot1][product-screenshot3]]
 [![product-screenshot1][product-screenshot1]]
@@ -343,12 +343,12 @@ Project Link: [https://github.com/Adhyayanpradhan/computer_vision/tree/master/Mi
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[product-screenshot1]: ./project_screenshots/1.png
+[product-screenshot1]: ./project_screenshots/1.jpg
 [product-screenshot2]: ./project_screenshots/5.jpg
 [product-screenshot3]: ./project_screenshots/8.jpg
 [product-screenshot4]: ./project_screenshots/3.jpg
 [product-screenshot5]: ./project_screenshots/3.jpg
-[product-screenshot6]: ./project_screenshots/3.2.jpg
+[product-screenshot6]: ./project_screenshots/3.2.png
 [product-screenshot7]: ./project_screenshots/4.jpg
 [product-screenshot8]: ./project_screenshots/2.jpg
 [linkedin-url]: https://www.linkedin.com/in/pradhan-adhyayan/
