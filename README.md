@@ -11,6 +11,10 @@
   <p align="center">
     An awesome guide to install and run this awesome computer vision project!
   </p>
+  
+  <p align="center">
+    Project Demo - https://www.youtube.com/watch?v=mTAQe_-H1AE&ab_channel=BinaryBlock
+  </p>
 </div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
