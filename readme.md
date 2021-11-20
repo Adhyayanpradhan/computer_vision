@@ -311,7 +311,7 @@ See the image to get an idea of the mysql table-
 
    ```
 
-5. Make some <h3>necessary changes</h3> in the files
+5. Make some <strong>necessary changes</strong> in the files
 
    ```
    1. Open alpr_video.py and go to the main_plate() function in mydb = mysql.connector.connect(user='user_name', password='password',host='localhost', database='db_name', auth_plugin='mysql_native_password'). Provide correct username, password, host, and databse name which you have created previously in pre-requisite section.
