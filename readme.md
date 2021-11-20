@@ -45,9 +45,9 @@
 ## About The Project
 
 [![Full project demo][product-screenshot1]](https://www.youtube.com/watch?v=D6Qqi1Od_2k&ab_channel=Adhyayan)
-[![product-screenshot1][product-screenshot2]]
-[![product-screenshot1][product-screenshot3]]
-[![product-screenshot1][product-screenshot1]]
+![product-screenshot1][product-screenshot2]
+![product-screenshot1][product-screenshot3]
+![product-screenshot1][product-screenshot1]
 
 This platform is an end to end system for automatic Traffic Management, Number plate recognition, Speeding car recognition and fine system to prevail the advanced prototype of traffic in India -
 
@@ -108,9 +108,9 @@ Before running the project to have a virtual env to run this file. I used conda 
 ```
 
 See the images to get an idea -
-[![product-screenshot1][product-screenshot5]]
-[![product-screenshot1][product-screenshot6]]
-[![product-screenshot1][product-screenshot7]]
+![product-screenshot1][product-screenshot5]
+![product-screenshot1][product-screenshot6]
+![product-screenshot1][product-screenshot7]
 
 - chromedriver installation for getting the exact location
 <p>Chromedriver is required for getting the longitude and latitude of the place where overspeeding takes place. So that fine can be attached with the location and video proof.</p>
@@ -132,7 +132,7 @@ See the images to get an idea -
 
 See the image to get an idea of the mysql table-
 
-[![product-screenshot1][product-screenshot8]]
+![product-screenshot1][product-screenshot8]
 
 ### Installation
 
