@@ -40,6 +40,10 @@
 ## About The Repo
 This Computer Vision repo is all about research and prototype development for various Deep learning, Robotics and Software related projects. To get into the amazing world of Software engineering, Machine Learning and Robotics, I started this repo.
 
+<h3>PROJECT DEMOS</h3>
+<li>Millitary AI platform and Drone Tech - https://www.youtube.com/watch?v=mTAQe_-H1AE&ab_channel=BinaryBlock</li>
+<li>Automatic Traffic Control - https://www.youtube.com/watch?v=D6Qqi1Od_2k&ab_channel=Adhyayan</li>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -54,7 +58,7 @@ Please follow the detailed instruction to run these projects in different branch
 <p>Branches:</p>
 <li>Millitary - https://github.com/Adhyayanpradhan/computer_vision/tree/Millitary</li>
 
-<li>Agriculture - https://github.com/Adhyayanpradhan/computer_vision/tree/Agriculture</li>
+<li>Auto-Traffic-Control - https://github.com/Adhyayanpradhan/computer_vision/tree/Auto-Traffic-Control</li>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
